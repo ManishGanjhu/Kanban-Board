@@ -1,7 +1,8 @@
 # Kanban Board
 
 A task management app with drag-and-drop functionality and local storage support.
-
+## 🚀 Demo
+Try it out here: [Live Demo](https://kanban-board-tasker.netlify.app/)
 ## Features
 - Task creation and management
 - Drag and drop between columns
